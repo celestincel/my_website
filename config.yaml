@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://determined-kalam-315708.netlify.app/
 languageCode: en-us
 title: celestin
 theme: forty
@@ -47,7 +47,7 @@ params:
         url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://www.facebook.com/celestin.zongo.560/
       - icon: fa-instagram
         label: Instagram
         url: https://www.instagram.com
