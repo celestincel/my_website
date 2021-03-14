@@ -7,8 +7,9 @@ description: ""
 draft: false
 image: pic10.jpg
 keywords: ""
-slug: ipsum
-title: Ipsum
+slug: My best picture
+title: visite
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+my best picture.i would tell you where a take my best picture came from.
+during the last holiday we are travel to leo, in order to enjoy ourself. during this moment we visite many place and take a lot of photos

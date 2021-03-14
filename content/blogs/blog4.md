@@ -7,6 +7,6 @@ description: welcome to my blogs i give all my followers howto designe a website
 draft: false
 image: pic07.jpg
 keywords: ""
-slug: aliquam
-title: blogin
+slug: Business blog
+title: bloging
 ---
